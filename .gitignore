@@ -1,0 +1,8 @@
+gems/**
+webdrivers/**
+tags
+*.html
+screenshot
+account.rb
+save.rb
+test.rb
